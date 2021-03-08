@@ -1,11 +1,14 @@
 ## Collision Finder for Truncated SHA3
 
+```text
  ________________________________
-/ A simple python script to find \
-\ collision for truncated SHA3   /
+/ A Simple Python Script to Find \
+\ Collision for Truncated SHA3   /
  --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+
+```
